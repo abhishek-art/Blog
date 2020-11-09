@@ -1,0 +1,31 @@
+.home-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.main-img{
+    max-height: 100%;
+    flex: 3;
+}
+
+.side-img{
+    max-height: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.side-img .card-img{
+    padding: 0;
+}
+
+.row{
+    margin: 0px;
+}
+
+.container{
+    margin: 0px;
+    max-width: 100%;
+}

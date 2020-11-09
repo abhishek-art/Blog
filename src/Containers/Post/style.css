@@ -1,0 +1,25 @@
+.posts{
+    display: flex;
+    margin: 10px 0px;
+    justify-content: space-between;
+}
+
+.blog{
+    flex: 3;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.sidebar{
+    flex: 1.5;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.card{
+    margin-top: 10px;
+}
+
+.card-header{
+    border-style: none;
+}

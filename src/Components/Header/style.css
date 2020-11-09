@@ -1,0 +1,15 @@
+.nav-link {
+    color: #565673;
+}
+
+.nav-link:hover{
+    color: #5f9ea0;
+}
+
+.row{
+    width: 100%;
+}
+
+.side-icons {
+    padding: 8px 0px;
+}
